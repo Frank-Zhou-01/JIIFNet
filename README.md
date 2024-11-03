@@ -1,2 +1,1 @@
-# JIIFNet
-JIIFNet: Joint Inter-frame and Intra-frame Feature Network for Video Deblurring
+# JIIFNet: Joint Inter-frame and Intra-frame Feature Network for Video Deblurring
